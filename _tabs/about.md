@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+>Me llamo **David Sabugueiro Troya** y soy estudiante de último año de Ingeniería del Software en la Universidad de Sevilla. En este blog recopilaré resoluciones de máquinas **CTF** (Capture The Flag) de diferentes plataformas como VulnHub o HackTheBox a medida que las vaya resolviendo. 
